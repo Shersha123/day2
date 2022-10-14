@@ -1,0 +1,9 @@
+The document object is your html, aspx, php, or other document that will be loaded into the browser. 
+The document actually gets loaded inside the window object and has properties available to it like title, URL, cookie, etc.
+
+windows object
+it means outside the element object
+
+document object
+each HTML document that gets loaded into a window becomes a document object.
+
